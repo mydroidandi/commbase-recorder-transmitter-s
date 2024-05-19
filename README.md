@@ -5,11 +5,9 @@
 
 <img alt="commbase-recorder-transmitter-s" src="commbase-recorder-transmitter-s.png?raw=true" width="512" height="512" />
 
-TODO: Desc.
+commbase-recorder-transmitter-s is a voice recorder and recording transmitter for Commbase.
 
-## TODO: Detailed description
-
-TODO: Add description here.
+**reccomm.sh** is a Shell script that enables recording audio using the `arecord` command when a specific key is pressed. It also supports sending the recorded audio file to a remote host using `scp` when the recording is stopped with another key press.
 
 ## Examples
 
